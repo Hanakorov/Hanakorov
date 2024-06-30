@@ -16,9 +16,11 @@
 
 ## 📈 Статистика GitHub
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanakor&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanakor&layout=compact&theme=radical)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hanakor&theme=radical)](https://git.io/streak-stats)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Hanakor&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hanakor&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
