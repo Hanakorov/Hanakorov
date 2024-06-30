@@ -1,5 +1,6 @@
 # Привет! 👋 Я Hanakor!
 
+
 ## 💻 О себе)
 Моё имя Кирилл. Я ФУЛЛСТЭЭЭЭК с опытом в пет-проектах, некоторых отсебятинах и чуууут чут 🤏🤏🤏 в проектах с участием командой. Вырываюсь из круга потребителей, создавая услуги для потребителей. Мечта - найти ОЗУ для IDE, чтобы не приходилось ждать по пол часа. Хобби по пальцам не пересчитать, коротко говоря: разнорабочий
 
@@ -17,9 +18,12 @@
 ## 📈 Статистика GitHub
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanakor&show_icons=true&theme=radical)
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanakor&layout=compact&theme=radical)
 
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hanakor&theme=radical)](https://git.io/streak-stats)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hanakor&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
