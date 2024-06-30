@@ -25,10 +25,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hanakor&theme=radical)](https://git.io/streak-stats)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hanakor&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
 ---
 
 ⭐️ From Hanakor (https://github.com/Hanakorov)
