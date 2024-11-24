@@ -1,2 +1,1 @@
 ## 💻 About me ~
-I am a backend developer with a strong passion for software development. In addition to my professional work, I actively engage in pet projects, where I explore new technologies and experiment with innovative solutions. My interests also extend to computer hardware, where I enjoy building and maintaining custom systems. This hands-on experience with both software and hardware gives me a comprehensive understanding of how to create efficient and reliable solutions that bridge the gap between code and the machines it runs on. 
