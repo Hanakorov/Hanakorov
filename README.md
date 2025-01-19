@@ -7,4 +7,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanakorov&layout=compact&card_width=1000&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-oy es bebe ddddd
+oy es bebe dddd
